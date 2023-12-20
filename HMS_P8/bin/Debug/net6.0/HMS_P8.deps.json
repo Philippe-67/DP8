@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HMS_P8/1.0.0": {
+        "runtime": {
+          "HMS_P8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HMS_P8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
