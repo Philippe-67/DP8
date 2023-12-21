@@ -6,7 +6,7 @@ using ServicePriseDeRDV.Services;
 
 namespace ServicePriseDeRDV.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/Patients")]
     [ApiController]
     public class PatientController : ControllerBase
     {

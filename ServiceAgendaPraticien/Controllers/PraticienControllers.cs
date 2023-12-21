@@ -6,7 +6,7 @@ using ServiceAgendaPraticien.Services;
 namespace ServiceAgendaPraticien.Controllers
 {
     [ApiController]
-    [Route("api/praticiens")]
+    [Route("api/Praticiens")]
     public class PraticienController : ControllerBase
     {
         private readonly IPraticienService _praticienService;

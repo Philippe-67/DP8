@@ -22,7 +22,7 @@ namespace ServiceAgendaPraticien.Controllers
             return Ok(agenda);
 
         }
-        [HttpGet("id)")]
+        [HttpGet("id")]
         public IActionResult GetAgendaById(int id)
         {
             var agenda = _agendaService.GetAgendaById(id);
