@@ -1,4 +1,13 @@
+using Microsoft.EntityFrameworkCore;
+using ServicePrisedeRDV.Data;
+using System;
+
 var builder = WebApplication.CreateBuilder(args);
+
+// add services bdd
+builder.Services.AddDbContext<PriseDeRDVDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
 
 // Add services to the container.
 
