@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceAgendaPraticien", "S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServicePrisedeRDV", "ServicePrisedeRDV\ServicePrisedeRDV.csproj", "{89E56869-FEE5-48C3-A39C-3C5CFE8D5232}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiGateway", "ApiGateway\ApiGateway.csproj", "{453F9BB9-C58C-47CE-8AE7-444BE5C57E04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{89E56869-FEE5-48C3-A39C-3C5CFE8D5232}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89E56869-FEE5-48C3-A39C-3C5CFE8D5232}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89E56869-FEE5-48C3-A39C-3C5CFE8D5232}.Release|Any CPU.Build.0 = Release|Any CPU
+		{453F9BB9-C58C-47CE-8AE7-444BE5C57E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{453F9BB9-C58C-47CE-8AE7-444BE5C57E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{453F9BB9-C58C-47CE-8AE7-444BE5C57E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{453F9BB9-C58C-47CE-8AE7-444BE5C57E04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

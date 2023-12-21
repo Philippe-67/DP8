@@ -5,7 +5,7 @@ namespace ServiceAgendaPraticien.Models
     public class Praticien
     {
         [Key]
-        public int PaticienId { get; set; }
+        public int PraticienId { get; set; }
         public string Nom    { get;set; }
         public string Prenom { get; set;}
         public int Specialite { get; set;}

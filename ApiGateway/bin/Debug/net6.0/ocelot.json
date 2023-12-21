@@ -1,0 +1,109 @@
+﻿{
+  "GlobalConfiguration": {
+    "BaseUrl": "https://localhost:7062"
+  },
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/ApiGateway/Praticien",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/praticien",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7033
+        }
+      ],
+
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      }
+    },
+    {
+      "UpstreamPathTemplate": "/ApiGateway/Praticien/{id}",
+      "UpstreamHttpMethod": [ "Get", "Put", "Delete" ],
+      "DownstreamPathTemplate": "/api/praticien/{id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7033
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/ApiGateway/Agenda",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/agenda",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7033
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/ApiGateway/Agenda/{id}",
+      "UpstreamHttpMethod": [ "Get", "Put", "Delete" ],
+      "DownstreamPathTemplate": "/api/agenda/{id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7033
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/ApiGateway/RendezVous",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/RendezVous",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7052
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/ApiGateway/RendezVous/{id}",
+      "UpstreamHttpMethod": [ "Get", "Put", "Delete" ],
+      "DownstreamPathTemplate": "/api/rendezVous/{id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7052
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/ApiGateway/Patient",
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/Patient/",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7052
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/ApiGateway/Patient/{id}",
+      "UpstreamHttpMethod": [ "Get", "Put", "Delete" ],
+      "DownstreamPathTemplate": "/api/Patient/{id}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7052
+        }
+      ]
+    }
+  ]
+}
+
