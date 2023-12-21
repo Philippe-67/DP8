@@ -1,7 +1,10 @@
-﻿namespace ServiceAgendaPraticien.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace ServiceAgendaPraticien.Models
 {
     public class Praticien
     {
+        [Key]
         public int PaticienId { get; set; }
         public string Nom    { get;set; }
         public string Prenom { get; set;}

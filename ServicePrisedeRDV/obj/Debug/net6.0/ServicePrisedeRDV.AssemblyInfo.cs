@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ServicePrisedeRDV")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0607386ab814759d92bb33c640306ba1242c4da")]
 [assembly: System.Reflection.AssemblyProductAttribute("ServicePrisedeRDV")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ServicePrisedeRDV")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
