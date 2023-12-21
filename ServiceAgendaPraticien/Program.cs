@@ -1,4 +1,12 @@
+using Microsoft.EntityFrameworkCore;
+using ServiceAgendaPraticien.Data;
+
 var builder = WebApplication.CreateBuilder(args);
+
+// add services bdd
+builder.Services.AddDbContext<AgendaPraticienDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
 
 // Add services to the container.
 
