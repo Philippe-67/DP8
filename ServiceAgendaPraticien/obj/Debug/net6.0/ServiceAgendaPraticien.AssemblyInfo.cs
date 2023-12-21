@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ServiceAgendaPraticien")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+18963c8c1df9bf814966bce3da8a60e8b6181ac7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3fbe20e3e454281be756a3af9889da258b3986ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("ServiceAgendaPraticien")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ServiceAgendaPraticien")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

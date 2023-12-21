@@ -12,5 +12,16 @@ namespace ServicePrisedeRDV.Data
         public PriseDeRDVDbContext(DbContextOptions<PriseDeRDVDbContext> options) : base(options)
         {
         }
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<RendezVous>()
+                .HasOne(r => r.Patient)
+                .WithMany(p => p.RendezVous)
+                .HasForeignKey(r => r.PatientId);
+
+            // Autres configurations si nécessaires
+
+            base.OnModelCreating(modelBuilder);
+        }
     }
 }

@@ -23,7 +23,7 @@
     {
       "UpstreamPathTemplate": "/ApiGateway/Praticien/{id}",
       "UpstreamHttpMethod": [ "Get", "Put", "Delete" ],
-      "DownstreamPathTemplate": "/api/praticien/{id}",
+      "DownstreamPathTemplate": "/api/Praticiens/{id}",
       "DownstreamScheme": "https",
       "DownstreamHostAndPorts": [
         {
@@ -35,7 +35,7 @@
     {
       "UpstreamPathTemplate": "/ApiGateway/Agenda",
       "UpstreamHttpMethod": [ "Get" ],
-      "DownstreamPathTemplate": "/api/agenda",
+      "DownstreamPathTemplate": "/api/Agendas",
       "DownstreamScheme": "https",
       "DownstreamHostAndPorts": [
         {
@@ -47,7 +47,7 @@
     {
       "UpstreamPathTemplate": "/ApiGateway/Agenda/{id}",
       "UpstreamHttpMethod": [ "Get", "Put", "Delete" ],
-      "DownstreamPathTemplate": "/api/agenda/{id}",
+      "DownstreamPathTemplate": "/api/Agendas/{id}",
       "DownstreamScheme": "https",
       "DownstreamHostAndPorts": [
         {
@@ -71,7 +71,7 @@
     {
       "UpstreamPathTemplate": "/ApiGateway/RendezVous/{id}",
       "UpstreamHttpMethod": [ "Get", "Put", "Delete" ],
-      "DownstreamPathTemplate": "/api/rendezVous/{id}",
+      "DownstreamPathTemplate": "/api/RendezVous/{id}",
       "DownstreamScheme": "https",
       "DownstreamHostAndPorts": [
         {
@@ -83,7 +83,7 @@
     {
       "UpstreamPathTemplate": "/ApiGateway/Patient",
       "UpstreamHttpMethod": [ "Get" ],
-      "DownstreamPathTemplate": "/api/Patient/",
+      "DownstreamPathTemplate": "/api/Patients/",
       "DownstreamScheme": "https",
       "DownstreamHostAndPorts": [
         {
@@ -95,7 +95,7 @@
     {
       "UpstreamPathTemplate": "/ApiGateway/Patient/{id}",
       "UpstreamHttpMethod": [ "Get", "Put", "Delete" ],
-      "DownstreamPathTemplate": "/api/Patient/{id}",
+      "DownstreamPathTemplate": "/api/Patients/{id}",
       "DownstreamScheme": "https",
       "DownstreamHostAndPorts": [
         {

@@ -4,7 +4,7 @@ using ServicePriseDeRDV.Services;
 
 namespace ServicePriseDeRDV.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/RendezVous")]
     [ApiController]
     public class RendezVousController : ControllerBase
     {
