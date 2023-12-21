@@ -5,16 +5,112 @@
       "PackagePath": "staticwebassets\\HMS_P8.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\HMS_P8\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\HMS_P8\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\HMS_P8\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\HMS_P8\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
       "Id": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\HMS_P8\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\HMS_P8\\wwwroot\\js\\site.js",
-      "PackagePath": "staticwebassets\\js\\site.js"
+      "Id": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\HMS_P8\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\HMS_P8\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\HMS_P8\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\HMS_P8\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\HMS_P8\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\HMS_P8\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\HMS_P8\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\HMS_P8\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\HMS_P8\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\HMS_P8\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\HMS_P8\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\HMS_P8\\wwwroot\\img\\bg-banner.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\HMS_P8\\wwwroot\\img\\doctor1.jpg",
+      "PackagePath": "staticwebassets\\img\\doctor1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\HMS_P8\\wwwroot\\img\\doctor2.jpg",
+      "PackagePath": "staticwebassets\\img\\doctor2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\HMS_P8\\wwwroot\\img\\doctor3.jpg",
+      "PackagePath": "staticwebassets\\img\\doctor3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\HMS_P8\\wwwroot\\img\\doctor4.jpg",
+      "PackagePath": "staticwebassets\\img\\doctor4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\HMS_P8\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\HMS_P8\\wwwroot\\img\\logo1.png",
+      "PackagePath": "staticwebassets\\img\\logo1.png"
+    },
+    {
+      "Id": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\HMS_P8\\wwwroot\\img\\thumb.png",
+      "PackagePath": "staticwebassets\\img\\thumb.png"
+    },
+    {
+      "Id": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\HMS_P8\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\HMS_P8\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\HMS_P8\\wwwroot\\js\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\HMS_P8\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
     },
     {
       "Id": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\HMS_P8\\wwwroot\\lib\\bootstrap\\LICENSE",

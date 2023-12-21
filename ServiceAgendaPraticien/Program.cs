@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using ServiceAgendaPraticien.Data;
 
+
 var builder = WebApplication.CreateBuilder(args);
 
 // add services bdd

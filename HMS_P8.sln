@@ -5,9 +5,9 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HMS_P8", "HMS_P8\HMS_P8.csproj", "{3CA0AAD3-9F8F-43CC-BCE7-D7AAC1729358}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceAgendaPraticien", "ServiceAgendaPraticien\ServiceAgendaPraticien.csproj", "{3D6ACA1E-C84A-4FB7-A02C-A0AD2D463A8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServiceAgendaPraticien", "ServiceAgendaPraticien\ServiceAgendaPraticien.csproj", "{3D6ACA1E-C84A-4FB7-A02C-A0AD2D463A8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicePrisedeRDV", "ServicePrisedeRDV\ServicePrisedeRDV.csproj", "{89E56869-FEE5-48C3-A39C-3C5CFE8D5232}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ServicePrisedeRDV", "ServicePrisedeRDV\ServicePrisedeRDV.csproj", "{89E56869-FEE5-48C3-A39C-3C5CFE8D5232}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
