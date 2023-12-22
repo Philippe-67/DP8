@@ -1,0 +1,9 @@
+﻿@model List<Praticien>  
+<h2>Liste des Praticiens</h2>
+
+<ul>
+    @foreach (var praticien in Model)
+    {
+        <li>@praticien.Nom, @praticien.Prenom</li> <!-- Assurez-vous d'ajuster cela en fonction de votre modèle de Praticien -->
+    }
+</ul>

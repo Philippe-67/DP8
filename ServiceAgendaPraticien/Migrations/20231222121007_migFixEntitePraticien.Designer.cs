@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using ServiceAgendaPraticien.Data;
 
@@ -10,9 +11,10 @@ using ServiceAgendaPraticien.Data;
 namespace ServiceAgendaPraticien.Migrations
 {
     [DbContext(typeof(AgendaPraticienDbContext))]
-    partial class AgendaPraticienDbContextModelSnapshot : ModelSnapshot
+    [Migration("20231222121007_migFixEntitePraticien")]
+    partial class migFixEntitePraticien
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

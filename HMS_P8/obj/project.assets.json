@@ -2202,11 +2202,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\HMS_P8\\HMS_P8.csproj",
+      "projectUniqueName": "C:\\Users\\A114SR\\source\\repos\\DP8\\HMS_P8\\HMS_P8.csproj",
       "projectName": "HMS_P8",
-      "projectPath": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\HMS_P8\\HMS_P8.csproj",
+      "projectPath": "C:\\Users\\A114SR\\source\\repos\\DP8\\HMS_P8\\HMS_P8.csproj",
       "packagesPath": "C:\\Users\\A114SR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\HMS_P8\\obj\\",
+      "outputPath": "C:\\Users\\A114SR\\source\\repos\\DP8\\HMS_P8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\A114SR\\AppData\\Roaming\\NuGet\\NuGet.Config",

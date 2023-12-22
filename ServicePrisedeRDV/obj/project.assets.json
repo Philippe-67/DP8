@@ -2445,11 +2445,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\ServicePrisedeRDV\\ServicePrisedeRDV.csproj",
+      "projectUniqueName": "C:\\Users\\A114SR\\Source\\Repos\\DP8\\ServicePrisedeRDV\\ServicePrisedeRDV.csproj",
       "projectName": "ServicePrisedeRDV",
-      "projectPath": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\ServicePrisedeRDV\\ServicePrisedeRDV.csproj",
+      "projectPath": "C:\\Users\\A114SR\\Source\\Repos\\DP8\\ServicePrisedeRDV\\ServicePrisedeRDV.csproj",
       "packagesPath": "C:\\Users\\A114SR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\ServicePrisedeRDV\\obj\\",
+      "outputPath": "C:\\Users\\A114SR\\Source\\Repos\\DP8\\ServicePrisedeRDV\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\A114SR\\AppData\\Roaming\\NuGet\\NuGet.Config",

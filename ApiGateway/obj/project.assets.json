@@ -2916,11 +2916,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\ApiGateway\\ApiGateway.csproj",
+      "projectUniqueName": "C:\\Users\\A114SR\\source\\repos\\DP8\\ApiGateway\\ApiGateway.csproj",
       "projectName": "ApiGateway",
-      "projectPath": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\ApiGateway\\ApiGateway.csproj",
+      "projectPath": "C:\\Users\\A114SR\\source\\repos\\DP8\\ApiGateway\\ApiGateway.csproj",
       "packagesPath": "C:\\Users\\A114SR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\ApiGateway\\obj\\",
+      "outputPath": "C:\\Users\\A114SR\\source\\repos\\DP8\\ApiGateway\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\A114SR\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2938,8 +2938,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\HMS_P8\\HMS_P8.csproj": {
-              "projectPath": "C:\\Users\\A114SR\\source\\repos\\HMS_P8\\HMS_P8\\HMS_P8.csproj"
+            "C:\\Users\\A114SR\\source\\repos\\DP8\\HMS_P8\\HMS_P8.csproj": {
+              "projectPath": "C:\\Users\\A114SR\\source\\repos\\DP8\\HMS_P8\\HMS_P8.csproj"
             }
           }
         }
